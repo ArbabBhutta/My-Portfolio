@@ -1,0 +1,43 @@
+.parallax {
+    /* The image used */
+    background-image: url("../../IMAGES/joshua-woroniecki-lzh3hPtJz9c-unsplash.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .about_div{
+    text-align: center;
+   
+  }
+  .rowA{
+    background-color: black;
+    color: white;
+    opacity: 0.8;
+  }
+ .about_div p{
+  background-color: black;
+  opacity: 0.8;
+  margin: auto;
+  text-align: center;
+  line-height: 30px;
+  width: 50%;
+
+ }
+.cv_btn{
+  width: 130px;
+  height: 40px;
+  background-color: rgb(225, 16, 50);
+  color: white;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.cv_btn:hover{
+  background-color: #fff;
+  color:rgb(225, 16, 50) ;
+}

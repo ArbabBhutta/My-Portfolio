@@ -1,0 +1,35 @@
+.hero-section {
+    background-image: url('https://images.unsplash.com/photo-1692477729539-881615b4109d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzNXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+  }
+  .hero-heading {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  .hero-subheading {
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+  }
+.contact_me{
+  background-color: rgb(225, 16, 50);
+  color: white;
+  width: 110px;
+  height: 60px;
+  border-radius: 10px;
+  border-color: transparent;
+}
+.contact_me:hover{
+  background-color: white;
+  color: rgb(225, 16, 50);
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color: black;
+}

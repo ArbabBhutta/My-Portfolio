@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.fbd1e783.css",
+    "main.js": "/My-Portfolio/static/js/main.c6d81a38.js",
+    "static/media/chat.jpg": "/My-Portfolio/static/media/chat.0ba9146ff2ad5cebf82f.jpg",
+    "static/media/joshua-woroniecki-lzh3hPtJz9c-unsplash.jpg": "/My-Portfolio/static/media/joshua-woroniecki-lzh3hPtJz9c-unsplash.3aac9b3eddcc7db8d68c.jpg",
+    "static/media/blog.jpg": "/My-Portfolio/static/media/blog.b2da9a07d738500ed4a3.jpg",
+    "static/media/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg": "/My-Portfolio/static/media/sergey-zolkin-_UeY8aTI6d0-unsplash.bdbc2b99200c7242d092.jpg",
+    "static/media/ales-nesetril-Im7lZjxeLhg-unsplash.jpg": "/My-Portfolio/static/media/ales-nesetril-Im7lZjxeLhg-unsplash.37f9618ac10afa3bfcdd.jpg",
+    "static/media/shop.jpg": "/My-Portfolio/static/media/shop.e4f58042dfe2cb331db3.jpg",
+    "static/media/haroon-niaz-CgqIfmD0k_Y-unsplash.jpg": "/My-Portfolio/static/media/haroon-niaz-CgqIfmD0k_Y-unsplash.709ae644130ad0eac588.jpg",
+    "static/media/Arbab_Resume.pdf": "/My-Portfolio/static/media/Arbab_Resume.737954b4fd7fbcedf13d.pdf",
+    "index.html": "/My-Portfolio/index.html",
+    "main.fbd1e783.css.map": "/My-Portfolio/static/css/main.fbd1e783.css.map",
+    "main.c6d81a38.js.map": "/My-Portfolio/static/js/main.c6d81a38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbd1e783.css",
+    "static/js/main.c6d81a38.js"
+  ]
+}
